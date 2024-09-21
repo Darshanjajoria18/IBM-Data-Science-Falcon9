@@ -1,4 +1,4 @@
-# IBM-Data-Science-Capstone
+# Spacex-landing-prediction
 
 ## Agenda:
 The target is to predict whether the success of first stage of SpaceX Falcon 9 rocket.
